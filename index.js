@@ -27,7 +27,7 @@ const questions = [
         name: 'credits',
         message: 'Please list any credits or collaborators for this project:'},
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'Please selcet a license used, if any:',
         choices: [
@@ -40,7 +40,7 @@ const questions = [
             'Attribution 4.0 International',
             'Attribution-ShareAlike 4.0 International',
             'Attribution-NonCommercial 4.0 International',
-            'Attribution-NoDerivates 4.0 International',] },
+            'Attribution-NoDerivates 4.0 International' ] },
     {
         type: 'input',
         name: 'features',
@@ -66,15 +66,19 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile("output.html", outputString, (err) =>
+    fs.writeFile(fileName,data, (err) =>
         err ? console.error("File did not write") : console.log("README.MD has been written")
     );
 }
 
 
 // TODO: Create a function to initialize app
-function init() {
-    
+function init()  {
+inquirer.prompt(questions).then((answers) => {
+        // logic to process answers and perhaps generate more data
+        const markdownContent = generateMarkdown(answers);
+        writeToFile('README.md', markdownContent);
+    });
 }
 
 // Function call to initialize app
