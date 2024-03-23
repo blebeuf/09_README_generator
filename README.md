@@ -1,10 +1,10 @@
-# README.MDLicense not recognized
+# README.md Generator[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   # <Your-Project-Title>
 
   ## Description
   
- NA
+ This project generates a readme.md based on the users input.
    
   ## Table of Contents (Optional)
   
@@ -18,15 +18,15 @@
 
   ## Installation
   
-  NA
+  N/A
   
   ## Usage
   
-  NA
+  N/A
 
   ## Credits
   
-  NA
+  N/A
   
   ## License
   
@@ -36,18 +36,17 @@
 
   ## Features
   
-  NA
+  N/A
   
   ## How to Contribute
   
-  NA
+  Email me please with any updates, or suggestions.
   
   ## Tests
   
-  NA
+  N/A
 
   ## Questions
 
-  Please bryanlebeuf@gmail.com if you have any questions regarding this project. Also visit my blebeuf for other projects/applications.
-
-
+  Please email me at bryanl@gmail.com if you have any questions or concerns regarding this project. 
+  Also visit my blebeuf for other projects and/or applications.
