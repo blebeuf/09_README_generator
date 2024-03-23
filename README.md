@@ -24,7 +24,8 @@
   
   ## Usage
   
-  NA
+  ![README md GIF](https://github.com/blebeuf/09_README_generator/assets/23405383/799b896d-d351-4902-bc70-3443677d8181)
+
 
   ## Credits
   
