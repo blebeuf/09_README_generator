@@ -142,6 +142,10 @@ function generateMarkdown(data) {
   
   ${data.tests}
 
+  ## Questions
+
+  Please email me at ${data.email} if you have any questions or concerns regarding this project. 
+  Also visit my ${data.github} for other projects and/or applications.
 `;
 }
 

@@ -1,10 +1,10 @@
-# README.md[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# README.MDLicense not recognized
 
   # <Your-Project-Title>
 
   ## Description
   
- Creates a readme file for github
+ NA
    
   ## Table of Contents (Optional)
   
@@ -18,15 +18,15 @@
 
   ## Installation
   
-  N/A
+  NA
   
   ## Usage
   
-  N/A
+  NA
 
   ## Credits
   
-  N/A
+  NA
   
   ## License
   
@@ -36,13 +36,18 @@
 
   ## Features
   
-  N/A
+  NA
   
   ## How to Contribute
   
-  N/A
+  NA
   
   ## Tests
   
-  N/A
+  NA
+
+  ## Questions
+
+  Please bryanlebeuf@gmail.com if you have any questions regarding this project. Also visit my blebeuf for other projects/applications.
+
 
