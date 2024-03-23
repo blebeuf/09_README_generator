@@ -1,10 +1,10 @@
-# README.md Generator[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# README[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   # <Your-Project-Title>
 
   ## Description
   
- This project generates a readme.md based on the users input.
+ NA
    
   ## Table of Contents (Optional)
   
@@ -12,41 +12,45 @@
   - [Usage](#usage)
   - [Credits](#credits)
   - [Features](#features)
+  - [License](#license)
+  - [Badges](#badges)
   - [How to Contribute](#how-to-contribute)
-  - [Test](#test)
+  - [Test](#tests)
   - [Questions](#questions)
 
   ## Installation
   
-  N/A
+  NA
   
   ## Usage
   
-  N/A
+  NA
 
   ## Credits
   
-  N/A
-  
+  NA
+
+  ## Badges
+
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
   ## License
   
- 
-  ## Badges
-  
+  Apache 2.0 License
 
   ## Features
   
-  N/A
+  NA
   
   ## How to Contribute
   
-  Email me please with any updates, or suggestions.
+  NA
   
   ## Tests
   
-  N/A
+  NA
 
   ## Questions
 
-  Please email me at bryanl@gmail.com if you have any questions or concerns regarding this project. 
-  Also visit my blebeuf for other projects and/or applications.
+  Please email me at bl@gmail.com if you have any questions or concerns regarding this project. 
+  Also visit my blebeud for other projects and/or applications.

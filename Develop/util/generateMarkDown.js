@@ -108,8 +108,10 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Credits](#credits)
   - [Features](#features)
+  - [License](#license)
+  - [Badges](#badges)
   - [How to Contribute](#how-to-contribute)
-  - [Test](#test)
+  - [Test](#tests)
   - [Questions](#questions)
 
   ## Installation
@@ -123,12 +125,14 @@ function generateMarkdown(data) {
   ## Credits
   
   ${data.credits}
-  
+
+  ## Badges
+
+  ${licenseBadge}
+
   ## License
   
- 
-  ## Badges
-  
+  ${data.license}
 
   ## Features
   
